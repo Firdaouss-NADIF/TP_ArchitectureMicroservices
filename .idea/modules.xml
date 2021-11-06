@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Billing-service/Billing-service.iml" filepath="$PROJECT_DIR$/Billing-service/Billing-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bonnes Pratiques et Challenges Architectures Micro-Services-Use case - Eureka Discovery.iml" filepath="$PROJECT_DIR$/.idea/Bonnes Pratiques et Challenges Architectures Micro-Services-Use case - Eureka Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer-service/Customer-service.iml" filepath="$PROJECT_DIR$/Customer-service/Customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-service/Eureka-service.iml" filepath="$PROJECT_DIR$/Eureka-service/Eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-service/Gateway-service.iml" filepath="$PROJECT_DIR$/Gateway-service/Gateway-service.iml" />
+    </modules>
+  </component>
+</project>
